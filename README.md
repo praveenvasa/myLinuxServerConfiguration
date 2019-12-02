@@ -1,0 +1,2 @@
+# myLinuxServerConfiguration
+Linux server Configuration
