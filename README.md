@@ -14,13 +14,13 @@ You can visit http://15.206.145.109/ or http://ec2-15.206.145.109.ap-south-1.com
 
 ## Get a server
 **Step 1: Start a new Ubuntu Linux server instance on Amazon Lightsail**
-*Login into Amazon Lightsail using an Amazon Web Services account.
-*Once you are login into the site, click Create instance.
-*Choose Linux/Unix platform, OS Only and Ubuntu 16.04 LTS.
-*Choose a instance plan (I took the cheapest, $5/month).
-*Keep the default name provided by AWS or rename your instance.
-*Click the Create button to create the instance.
-*Wait for the instance to start up.
+* Login into Amazon Lightsail using an Amazon Web Services account.
+* Once you are login into the site, click Create instance.
+* Choose Linux/Unix platform, OS Only and Ubuntu 16.04 LTS.
+* Choose a instance plan (I took the cheapest, $5/month).
+* Keep the default name provided by AWS or rename your instance.
+* Click the Create button to create the instance.
+* Wait for the instance to start up.
 ### Reference
 
 *ServerPilot, How to Create a Server on Amazon Lightsail.
